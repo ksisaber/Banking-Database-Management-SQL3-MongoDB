@@ -1,0 +1,8 @@
+Le dossier contient :
+Le script de la partie 1(PARTIE1.sql).
+ 
+Le script de la partie 2 (PARTIE2.js) et comme gmail n'autorise pas l'envoie des fichiers javascript, donc j'ai du changer l'extension du fichier.
+
+Le rapport du projet
+
+Le script d'insertions des données pour la partie 2.
